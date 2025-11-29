@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A modern and clean image of law scales or a gavel.",
+      "imageUrl": "https://images.unsplash.com/photo-1617118601652-3ec3aeaa0e36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXclMjBnYXZlbHxlbnwwfHx8fDE3NjQ0NDU4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "law gavel"
+    },
+    {
+      "id": "dashboard-welcome",
+      "description": "An abstract professional background.",
+      "imageUrl": "https://images.unsplash.com/photo-1515098329374-20633b5628d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBhYnN0cmFjdHxlbnwwfHx8fDE3NjQ0NDU4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional abstract"
+    },
+    {
+      "id": "chatbot-card",
+      "description": "An icon or image representing AI chat.",
+      "imageUrl": "https://images.unsplash.com/photo-1676573408178-a5f280c3a320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxBSSUyMGNoYXR8ZW58MHx8fHwxNzY0NDQ1ODYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI chat"
+    },
+    {
+      "id": "complaint-card",
+      "description": "An icon or image representing a form or document.",
+      "imageUrl": "https://images.unsplash.com/photo-1763729805496-b5dbf7f00c79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkb2N1bWVudCUyMGZvcm18ZW58MHx8fHwxNzY0MzU0ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "document form"
+    }
+  ]
+}

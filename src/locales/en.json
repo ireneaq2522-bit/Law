@@ -1,0 +1,174 @@
+{
+  "logo": {
+    "text": "LawHelp AI"
+  },
+  "dashboard": {
+    "user": "User",
+    "welcome": {
+      "title": "Welcome",
+      "subtitle": "Here's your starting point for legal assistance."
+    },
+    "chatbot": {
+      "title": "AI Chatbot",
+      "description": "Get instant legal insights.",
+      "text": "Describe your situation to our AI, and it will help identify potential legal sections and case types relevant to you.",
+      "button": "Start Chat"
+    },
+    "complaint": {
+      "title": "File a Complaint",
+      "description": "Submit your issue for review.",
+      "text": "Use our simplified form to submit your complaint. Your submission is confidential and will be directed to the appropriate channels.",
+      "button": "New Complaint"
+    }
+  },
+  "home": {
+    "nav": {
+      "signin": "Sign In",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "title": "Clarity in Complexity",
+      "subtitle": "LawHelp AI provides instant, AI-driven legal insights to help you understand your rights and the relevant laws.",
+      "startForFree": "Start for Free",
+      "learnMore": "Learn More"
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Navigate the Legal Landscape with Confidence",
+      "description": "Our platform is designed to demystify the law, providing you with the tools you need to take the next step.",
+      "aiGuidance": {
+        "title": "AI-Powered Guidance",
+        "description": "Get instant insights into your legal issues. Our AI analyzes your problem and suggests relevant case types and legal sections."
+      },
+      "complaintFiling": {
+        "title": "Simplified Complaint Filing",
+        "description": "Easily submit your complaint through a simple and secure form. We streamline the process for you."
+      },
+      "secure": {
+        "title": "Secure and Confidential",
+        "description": "Your data is important. We use secure authentication and data handling to protect your privacy."
+      }
+    }
+  },
+  "footer": {
+    "copyright": "LawHelp AI. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "signIn": {
+    "title": "Sign In",
+    "description": "Enter your email below to login to your account.",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "submitButton": "Sign In",
+    "noAccount": "Don't have an account? ",
+    "signUpLink": "Sign up",
+    "toasts": {
+      "signInFailed": {
+        "title": "Sign-in Failed",
+        "description": "An unexpected error occurred. Please try again."
+      }
+    }
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "description": "Enter your information to create an account.",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "submitButton": "Create an account",
+    "haveAccount": "Already have an account? ",
+    "signInLink": "Sign in",
+    "toasts": {
+      "signUpFailed": {
+        "title": "Sign-up Failed",
+        "description": "An unexpected error occurred. Please try again."
+      }
+    }
+  },
+  "sidebar": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "aiChatbot": "AI Chatbot",
+      "fileComplaint": "File Complaint",
+      "translate": "Translate"
+    },
+    "languageSelector": {
+      "label": "Language",
+      "placeholder": "Select language",
+      "english": "English",
+      "tamil": "Tamil"
+    },
+    "userMenu": {
+      "user": "User",
+      "logout": "Log out"
+    }
+  },
+  "complaint": {
+    "title": "File a Complaint",
+    "description": "Please provide a detailed description of your problem. Your submission is confidential.",
+    "emailLabel": "Your Email (Optional)",
+    "problemLabel": "Problem Description",
+    "problemPlaceholder": "Clearly describe the issue, including dates, names, and any relevant details...",
+    "submitButton": "Submit Complaint",
+    "submitting": "Submitting...",
+    "toasts": {
+      "success": {
+        "title": "Success"
+      },
+      "error": {
+        "title": "Error"
+      }
+    }
+  },
+  "chatbot": {
+    "title": "AI Legal Assistant",
+    "disclaimer": "This AI is for informational purposes only. Consult with a qualified legal professional for advice.",
+    "initialMessage": "Hello! I am LawHelp AI. Describe your legal issue, and I'll try to provide relevant information. For example: 'My vote was stolen'.",
+    "inputPlaceholder": "Describe your issue here...",
+    "sendButton": "Send",
+    "analyzing": "Analyzing...",
+    "analysisHeader": "Based on your query, here is a possible interpretation:",
+    "unknownError": "An unknown error occurred. Please try again later.",
+    "analysis": {
+      "caseType": "Case Type",
+      "relevantSection": "Relevant Section",
+      "nextSteps": "Recommended Next Steps",
+      "escalationPath": "Escalation Path"
+    },
+    "startRecording": "Start Recording",
+    "stopRecording": "Stop Recording"
+  },
+  "translate": {
+    "title": "Translate Text",
+    "description": "Translate text into a selected South Indian language using AI.",
+    "textLabel": "Text to Translate",
+    "textPlaceholder": "Enter the text you want to translate...",
+    "languageLabel": "Target Language",
+    "languagePlaceholder": "Select a language",
+    "translateButton": "Translate",
+    "translatingButton": "Translating...",
+    "resultTitle": "Translated Text",
+    "languages": {
+      "tamil": "Tamil",
+      "telugu": "Telugu",
+      "kannada": "Kannada",
+      "malayalam": "Malayalam"
+    }
+  },
+  "validation": {
+    "email": {
+      "invalid": "Please enter a valid email."
+    },
+    "password": {
+      "tooShort": "Password must be at least {{min}} characters.",
+      "required": "Password is required."
+    },
+    "complaint": {
+      "tooShort": "Please describe your problem in at least {{min}} characters.",
+      "tooLong": "Description must not exceed {{max}} characters."
+    },
+    "translate": {
+      "textRequired": "Text to translate cannot be empty."
+    }
+  }
+}
